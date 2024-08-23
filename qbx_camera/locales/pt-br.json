@@ -1,0 +1,19 @@
+{
+    "help": {
+        "exit": "Sair do Modo Câmera",
+        "take": "Tirar Foto"
+    },
+    "input": {
+        "title": "Editar Foto",
+        "photoTitle": "Título",
+        "description": "Descrição"
+    },
+    "error": {
+        "takePicture": "Você não tirou uma foto",
+        "edit": "Falha ao editar foto"
+    },
+    "success": {
+        "edit": "Foto editada com sucesso",
+        "copied": "URL copiado para a área de transferência"
+    }
+}
